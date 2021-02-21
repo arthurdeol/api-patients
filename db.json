@@ -1,0 +1,344 @@
+{
+  "patients": [
+      {
+          "id" : "1",
+          "patientInfo": {
+            "name" : "Martin Gutierry",
+            "birthdate" : "09.22.1984 (35 yo.)",
+            "email" : "martin@gmail.com",
+            "gender" : "male",
+            "fone" : "+1-202-555-0162",
+            "description" : "description",
+            "newPatient" : "true",
+            "lastActivity": "last week",
+            "imageLinks": {
+              "thumbnail" : "",
+              "smallThumbnail" : ""
+            }
+          }
+        },
+        {
+          "id" : "2",
+          "patientInfo": {
+            "name" : "Samara Sibila Jacowski Collet",
+            "birthdate" : "09.22.1984 (35 yo.)",
+            "email" : "samaracollet@gmail.com",
+            "gender" : "male",
+            "fone" : "+1-202-555-0162",
+            "description" : "description",
+            "newPatient" : "",
+            "lastActivity": "today",
+            "imageLinks": {
+              "thumbnail" : "",
+              "smallThumbnail" : ""
+            }
+          }
+        },
+        {
+          "id" : "3",
+          "patientInfo": {
+            "name" : "Martin Martines",
+            "birthdate" : "09.22.1984 (35 yo.)",
+            "email" : "",
+            "gender" : "male",
+            "fone" : "+1-202-555-0162",
+            "description" : "description",
+            "newPatient" : "true",
+            "lastActivity": "last month",
+            "imageLinks": {
+              "thumbnail" : "",
+              "smallThumbnail" : ""
+            }
+          }
+        },
+        {
+          "id" : "4",
+          "patientInfo": {
+            "name" : "Martin Martines",
+            "birthdate" : "09.22.1984 (35 yo.)",
+            "email" : "martin@gmail.com",
+            "gender" : "male",
+            "fone" : "+1-202-555-0162",
+            "description" : "description",
+            "lastActivity": "just now",
+            "newPatient" : "true",
+            "imageLinks": {
+              "thumbnail" : "",
+              "smallThumbnail" : ""
+            }
+          }
+        },
+        {
+          "id" : "5",
+          "patientInfo": {
+            "name" : "Martin Martines",
+            "birthdate" : "09.22.1984 (35 yo.)",
+            "email" : "martin@gmail.com",
+            "gender" : "male",
+            "fone" : "+1-202-555-0162",
+            "description" : "description",
+            "newPatient" : "true",
+            "lastActivity": "05/11/2019",
+            "imageLinks": {
+              "thumbnail" : "",
+              "smallThumbnail" : ""
+            }
+          }
+        },
+        {
+          "id" : "6",
+          "patientInfo": {
+            "name" : "Martin Martines",
+            "birthdate" : "09.22.1984 (35 yo.)",
+            "email" : "martin@gmail.com",
+            "gender" : "male",
+            "fone" : "+1-202-555-0162",
+            "description" : "description",
+            "newPatient" : "true",
+            "lastActivity": "last month",
+            "imageLinks": {
+              "thumbnail" : "",
+              "smallThumbnail" : ""
+            }
+          }
+        },
+        {
+          "id" : "7",
+          "patientInfo": {
+            "name" : "Martin Martines",
+            "birthdate" : "09.22.1984 (35 yo.)",
+            "email" : "martin@gmail.com",
+            "gender" : "male",
+            "fone" : "+1-202-555-0162",
+            "description" : "description",
+            "newPatient" : "true",
+            "lastActivity": "last week",
+            "imageLinks": {
+              "thumbnail" : "",
+              "smallThumbnail" : ""
+            }
+          }
+        },
+        {
+          "id" : "8",
+          "patientInfo": {
+            "name" : "Martin Martines",
+            "birthdate" : "09.22.1984 (35 yo.)",
+            "email" : "martin@gmail.com",
+            "gender" : "male",
+            "fone" : "+1-202-555-0162",
+            "description" : "description",
+            "newPatient" : "true",
+            "lastActivity": "last month",
+            "imageLinks": {
+              "thumbnail" : "",
+              "smallThumbnail" : ""
+            }
+          }
+        },
+        {
+          "id" : "9",
+          "patientInfo": {
+            "name" : "Martin Martines",
+            "birthdate" : "09.22.1984 (35 yo.)",
+            "email" : "martin@gmail.com",
+            "gender" : "male",
+            "fone" : "+1-202-555-0162",
+            "description" : "description",
+            "newPatient" : "true",
+            "lastActivity": "just now",
+            "imageLinks": {
+              "thumbnail" : "",
+              "smallThumbnail" : ""
+            }
+          }
+        },
+        {
+          "id" : "10",
+          "patientInfo": {
+            "name" : "Martin Martines",
+            "birthdate" : "09.22.1984 (35 yo.)",
+            "email" : "martin@gmail.com",
+            "gender" : "male",
+            "fone" : "+1-202-555-0162",
+            "description" : "description",
+            "newPatient" : "true",
+            "lastActivity": "last week",
+            "imageLinks": {
+              "thumbnail" : "",
+              "smallThumbnail" : ""
+            }
+          }
+        },
+        {
+          "id" : "11",
+          "patientInfo": {
+            "name" : "Martin Martines",
+            "birthdate" : "09.22.1984 (35 yo.)",
+            "email" : "martin@gmail.com",
+            "gender" : "male",
+            "fone" : "+1-202-555-0162",
+            "description" : "description",
+            "newPatient" : "true",
+            "lastActivity": "last week",
+            "imageLinks": {
+              "thumbnail" : "",
+              "smallThumbnail" : ""
+            }
+          }
+        },
+        {
+          "id" : "12",
+          "patientInfo": {
+            "name" : "Martin Martines",
+            "birthdate" : "09.22.1984 (35 yo.)",
+            "email" : "martin@gmail.com",
+            "gender" : "male",
+            "fone" : "+1-202-555-0162",
+            "description" : "description",
+            "newPatient" : "true",
+            "lastActivity": "last week",
+            "imageLinks": {
+              "thumbnail" : "",
+              "smallThumbnail" : ""
+            }
+          }
+        },
+        {
+          "id" : "13",
+          "patientInfo": {
+            "name" : "Martin Martines",
+            "birthdate" : "09.22.1984 (35 yo.)",
+            "email" : "martin@gmail.com",
+            "gender" : "male",
+            "fone" : "+1-202-555-0162",
+            "description" : "description",
+            "newPatient" : "true",
+            "lastActivity": "last week",
+            "imageLinks": {
+              "thumbnail" : "",
+              "smallThumbnail" : ""
+            }
+          }
+        },
+        {
+          "id" : "14",
+          "patientInfo": {
+            "name" : "Martin Martines",
+            "birthdate" : "09.22.1984 (35 yo.)",
+            "email" : "martin@gmail.com",
+            "gender" : "male",
+            "fone" : "+1-202-555-0162",
+            "description" : "description",
+            "newPatient" : "true",
+            "lastActivity": "last week",
+            "imageLinks": {
+              "thumbnail" : "",
+              "smallThumbnail" : ""
+            }
+          }
+        },
+        {
+          "id" : "15",
+          "patientInfo": {
+            "name" : "Martin Martines",
+            "birthdate" : "09.22.1984 (35 yo.)",
+            "email" : "martin@gmail.com",
+            "gender" : "male",
+            "fone" : "+1-202-555-0162",
+            "description" : "description",
+            "newPatient" : "true",
+            "lastActivity": "last week",
+            "imageLinks": {
+              "thumbnail" : "",
+              "smallThumbnail" : ""
+            }
+          }
+        },
+        {
+          "id" : "16",
+          "patientInfo": {
+            "name" : "Martin Martines",
+            "birthdate" : "09.22.1984 (35 yo.)",
+            "email" : "martin@gmail.com",
+            "gender" : "male",
+            "fone" : "+1-202-555-0162",
+            "description" : "description",
+            "newPatient" : "true",
+            "lastActivity": "last week",
+            "imageLinks": {
+              "thumbnail" : "",
+              "smallThumbnail" : ""
+            }
+          }
+        },
+        {
+          "id" : "17",
+          "patientInfo": {
+            "name" : "Martin Martines",
+            "birthdate" : "09.22.1984 (35 yo.)",
+            "email" : "martin@gmail.com",
+            "gender" : "male",
+            "fone" : "+1-202-555-0162",
+            "description" : "description",
+            "newPatient" : "true",
+            "lastActivity": "just now",
+            "imageLinks": {
+              "thumbnail" : "",
+              "smallThumbnail" : ""
+            }
+          }
+        },
+        {
+          "id" : "18",
+          "patientInfo": {
+            "name" : "Martin Martines",
+            "birthdate" : "09.22.1984 (35 yo.)",
+            "email" : "martin@gmail.com",
+            "gender" : "male",
+            "fone" : "+1-202-555-0162",
+            "description" : "description",
+            "newPatient" : "true",
+            "lastActivity": "last week",
+            "imageLinks": {
+              "thumbnail" : "",
+              "smallThumbnail" : ""
+            }
+          }
+        },
+        {
+          "id" : "19",
+          "patientInfo": {
+            "name" : "Martin Martines",
+            "birthdate" : "09.22.1984 (35 yo.)",
+            "email" : "martin@gmail.com",
+            "gender" : "male",
+            "fone" : "+1-202-555-0162",
+            "description" : "description",
+            "newPatient" : "true",
+            "lastActivity": "today",
+            "imageLinks": {
+              "thumbnail" : "",
+              "smallThumbnail" : ""
+            }
+          }
+        },
+        {
+          "id" : "20",
+          "patientInfo": {
+            "name" : "Martin Martines",
+            "birthdate" : "09.22.1984 (35 yo.)",
+            "email" : "martin@gmail.com",
+            "gender" : "male",
+            "fone" : "+1-202-555-0162",
+            "description" : "description",
+            "newPatient" : "true",
+            "lastActivity": "just now",
+            "imageLinks": {
+              "thumbnail" : "",
+              "smallThumbnail" : ""
+            }
+          }
+        }
+  ]
+}
