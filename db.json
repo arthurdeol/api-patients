@@ -7,9 +7,9 @@
             "birthdate" : "09.22.1984 (35 yo.)",
             "email" : "martin@gmail.com",
             "gender" : "male",
-            "fone" : "+1-202-555-0162",
+            "phone" : "+1-202-555-0162",
             "description" : "description",
-            "newPatient" : "true",
+            "newPatient" : "false",
             "lastActivity": "last week",
             "imageLinks": {
               "thumbnail" : "",
@@ -23,8 +23,8 @@
             "name" : "Samara Sibila Jacowski Collet",
             "birthdate" : "09.22.1984 (35 yo.)",
             "email" : "samaracollet@gmail.com",
-            "gender" : "male",
-            "fone" : "+1-202-555-0162",
+            "gender" : "female",
+            "phone": "+86-377-276-9348",
             "description" : "description",
             "newPatient" : "false",
             "lastActivity": "today",
@@ -37,13 +37,13 @@
         {
           "id" : "3",
           "patientInfo": {
-            "name" : "Martin Martines",
-            "birthdate" : "09.22.1984 (35 yo.)",
-            "email" : "",
+            "name": "Kale Myderscough",
+            "birthdate": "05.12.2013 (8 yo.)",
+            "email": "kmyderscough2@hostgator.com",
             "gender" : "male",
-            "fone" : "+1-202-555-0162",
+            "phone": "+351-242-228-2498",
             "description" : "description",
-            "newPatient" : "true",
+            "newPatient" : "false",
             "lastActivity": "last month",
             "imageLinks": {
               "thumbnail" : "",
@@ -54,11 +54,11 @@
         {
           "id" : "4",
           "patientInfo": {
-            "name" : "Martin Martines",
-            "birthdate" : "09.22.1984 (35 yo.)",
-            "email" : "martin@gmail.com",
+            "name": "Ruthann Stanyer",
+            "birthdate": "26.02.1985 (36 yo.)",
+            "email": "rstanyer3@disqus.com",
             "gender" : "male",
-            "fone" : "+1-202-555-0162",
+            "phone": "+86-648-502-2564",
             "description" : "description",
             "lastActivity": "just now",
             "newPatient" : "true",
@@ -71,11 +71,11 @@
         {
           "id" : "5",
           "patientInfo": {
-            "name" : "Martin Martines",
-            "birthdate" : "09.22.1984 (35 yo.)",
-            "email" : "martin@gmail.com",
-            "gender" : "male",
-            "fone" : "+1-202-555-0162",
+            "name": "Selia Cunningham",
+            "birthdate": "06.04.1985 (36 yo.)",
+            "email": "scunningham4@adobe.com",
+            "gender": "Non-binary",
+            "phone": "+48-403-424-7524",
             "description" : "description",
             "newPatient" : "true",
             "lastActivity": "05/11/2019",
@@ -88,13 +88,13 @@
         {
           "id" : "6",
           "patientInfo": {
-            "name" : "Martin Martines",
-            "birthdate" : "09.22.1984 (35 yo.)",
+            "name": "Annadiana Jobb",
+            "birthdate" : "31.12.1945 (76 yo.)",
             "email" : "martin@gmail.com",
-            "gender" : "male",
-            "fone" : "+1-202-555-0162",
+            "gender": "Bigender",
+            "phone": "+62-828-209-8445",
             "description" : "description",
-            "newPatient" : "true",
+            "newPatient" : "false",
             "lastActivity": "last month",
             "imageLinks": {
               "thumbnail" : "",
@@ -105,11 +105,11 @@
         {
           "id" : "7",
           "patientInfo": {
-            "name" : "Martin Martines",
-            "birthdate" : "09.22.1984 (35 yo.)",
-            "email" : "martin@gmail.com",
-            "gender" : "male",
-            "fone" : "+1-202-555-0162",
+            "name": "Karen Player",
+            "birthdate" : "25.06.2002 (19 yo.)",
+            "email": "kplayer6@hp.com",
+            "gender" : "Female",
+            "phone": "+86-276-242-8845",
             "description" : "description",
             "newPatient" : "true",
             "lastActivity": "last week",
@@ -122,11 +122,11 @@
         {
           "id" : "8",
           "patientInfo": {
-            "name" : "Martin Martines",
-            "birthdate" : "09.22.1984 (35 yo.)",
-            "email" : "martin@gmail.com",
+            "name": "Roarke Jay",
+            "birthdate" : "26.09.1969 (52 yo.)",
+            "email": "rjay7@acquirethisname.com",
             "gender" : "male",
-            "fone" : "+1-202-555-0162",
+            "phone": "+1-305-174-7880",
             "description" : "description",
             "newPatient" : "true",
             "lastActivity": "last month",
@@ -139,13 +139,13 @@
         {
           "id" : "9",
           "patientInfo": {
-            "name" : "Martin Martines",
+            "name": "Winifred Lill",
             "birthdate" : "09.22.1984 (35 yo.)",
-            "email" : "martin@gmail.com",
-            "gender" : "male",
-            "fone" : "+1-202-555-0162",
+            "email": "cplumer9@engadget.com",
+            "gender": "Female",
+            "phone": "+1-926-641-9889",
             "description" : "description",
-            "newPatient" : "true",
+            "newPatient" : "false",
             "lastActivity": "just now",
             "imageLinks": {
               "thumbnail" : "",
@@ -156,13 +156,13 @@
         {
           "id" : "10",
           "patientInfo": {
-            "name" : "Martin Martines",
+            "name": "Karina Georgins",
             "birthdate" : "09.22.1984 (35 yo.)",
-            "email" : "martin@gmail.com",
-            "gender" : "male",
-            "fone" : "+1-202-555-0162",
+            "email": "kgeorginsa@biblegateway.com",
+            "gender": "Bigender",
+            "phone": "+353-381-981-2333",
             "description" : "description",
-            "newPatient" : "true",
+            "newPatient" : "false",
             "lastActivity": "last week",
             "imageLinks": {
               "thumbnail" : "",
@@ -173,13 +173,13 @@
         {
           "id" : "11",
           "patientInfo": {
-            "name" : "Martin Martines",
+            "name" : "Martin Gutierry",
             "birthdate" : "09.22.1984 (35 yo.)",
             "email" : "martin@gmail.com",
             "gender" : "male",
-            "fone" : "+1-202-555-0162",
+            "phone" : "+1-202-555-0162",
             "description" : "description",
-            "newPatient" : "true",
+            "newPatient" : "false",
             "lastActivity": "last week",
             "imageLinks": {
               "thumbnail" : "",
@@ -190,14 +190,14 @@
         {
           "id" : "12",
           "patientInfo": {
-            "name" : "Martin Martines",
+            "name" : "Samara Sibila Jacowski Collet",
             "birthdate" : "09.22.1984 (35 yo.)",
-            "email" : "martin@gmail.com",
-            "gender" : "male",
-            "fone" : "+1-202-555-0162",
+            "email" : "samaracollet@gmail.com",
+            "gender" : "female",
+            "phone": "+86-377-276-9348",
             "description" : "description",
-            "newPatient" : "true",
-            "lastActivity": "last week",
+            "newPatient" : "false",
+            "lastActivity": "today",
             "imageLinks": {
               "thumbnail" : "",
               "smallThumbnail" : ""
@@ -207,14 +207,14 @@
         {
           "id" : "13",
           "patientInfo": {
-            "name" : "Martin Martines",
-            "birthdate" : "09.22.1984 (35 yo.)",
-            "email" : "martin@gmail.com",
+            "name": "Kale Myderscough",
+            "birthdate": "05.12.2013 (8 yo.)",
+            "email": "kmyderscough2@hostgator.com",
             "gender" : "male",
-            "fone" : "+1-202-555-0162",
+            "phone": "+351-242-228-2498",
             "description" : "description",
-            "newPatient" : "true",
-            "lastActivity": "last week",
+            "newPatient" : "false",
+            "lastActivity": "last month",
             "imageLinks": {
               "thumbnail" : "",
               "smallThumbnail" : ""
@@ -224,14 +224,14 @@
         {
           "id" : "14",
           "patientInfo": {
-            "name" : "Martin Martines",
-            "birthdate" : "09.22.1984 (35 yo.)",
-            "email" : "martin@gmail.com",
+            "name": "Ruthann Stanyer",
+            "birthdate": "26.02.1985 (36 yo.)",
+            "email": "rstanyer3@disqus.com",
             "gender" : "male",
-            "fone" : "+1-202-555-0162",
+            "phone": "+86-648-502-2564",
             "description" : "description",
+            "lastActivity": "just now",
             "newPatient" : "true",
-            "lastActivity": "last week",
             "imageLinks": {
               "thumbnail" : "",
               "smallThumbnail" : ""
@@ -241,14 +241,14 @@
         {
           "id" : "15",
           "patientInfo": {
-            "name" : "Martin Martines",
-            "birthdate" : "09.22.1984 (35 yo.)",
-            "email" : "martin@gmail.com",
-            "gender" : "male",
-            "fone" : "+1-202-555-0162",
+            "name": "Selia Cunningham",
+            "birthdate": "06.04.1985 (36 yo.)",
+            "email": "scunningham4@adobe.com",
+            "gender": "Non-binary",
+            "phone": "+48-403-424-7524",
             "description" : "description",
             "newPatient" : "true",
-            "lastActivity": "last week",
+            "lastActivity": "05/11/2019",
             "imageLinks": {
               "thumbnail" : "",
               "smallThumbnail" : ""
@@ -258,14 +258,14 @@
         {
           "id" : "16",
           "patientInfo": {
-            "name" : "Martin Martines",
-            "birthdate" : "09.22.1984 (35 yo.)",
+            "name": "Annadiana Jobb",
+            "birthdate" : "31.12.1945 (76 yo.)",
             "email" : "martin@gmail.com",
-            "gender" : "male",
-            "fone" : "+1-202-555-0162",
+            "gender": "Bigender",
+            "phone": "+62-828-209-8445",
             "description" : "description",
-            "newPatient" : "true",
-            "lastActivity": "last week",
+            "newPatient" : "false",
+            "lastActivity": "last month",
             "imageLinks": {
               "thumbnail" : "",
               "smallThumbnail" : ""
@@ -275,28 +275,11 @@
         {
           "id" : "17",
           "patientInfo": {
-            "name" : "Martin Martines",
-            "birthdate" : "09.22.1984 (35 yo.)",
-            "email" : "martin@gmail.com",
-            "gender" : "male",
-            "fone" : "+1-202-555-0162",
-            "description" : "description",
-            "newPatient" : "true",
-            "lastActivity": "just now",
-            "imageLinks": {
-              "thumbnail" : "",
-              "smallThumbnail" : ""
-            }
-          }
-        },
-        {
-          "id" : "18",
-          "patientInfo": {
-            "name" : "Martin Martines",
-            "birthdate" : "09.22.1984 (35 yo.)",
-            "email" : "martin@gmail.com",
-            "gender" : "male",
-            "fone" : "+1-202-555-0162",
+            "name": "Karen Player",
+            "birthdate" : "25.06.2002 (19 yo.)",
+            "email": "kplayer6@hp.com",
+            "gender" : "Female",
+            "phone": "+86-276-242-8845",
             "description" : "description",
             "newPatient" : "true",
             "lastActivity": "last week",
@@ -307,16 +290,33 @@
           }
         },
         {
-          "id" : "19",
+          "id" : "18",
           "patientInfo": {
-            "name" : "Martin Martines",
-            "birthdate" : "09.22.1984 (35 yo.)",
-            "email" : "martin@gmail.com",
+            "name": "Roarke Jay",
+            "birthdate" : "26.09.1969 (52 yo.)",
+            "email": "rjay7@acquirethisname.com",
             "gender" : "male",
-            "fone" : "+1-202-555-0162",
+            "phone": "+1-305-174-7880",
             "description" : "description",
             "newPatient" : "true",
-            "lastActivity": "today",
+            "lastActivity": "last month",
+            "imageLinks": {
+              "thumbnail" : "",
+              "smallThumbnail" : ""
+            }
+          }
+        },
+        {
+          "id" : "19",
+          "patientInfo": {
+            "name": "Winifred Lill",
+            "birthdate" : "09.22.1984 (35 yo.)",
+            "email": "cplumer9@engadget.com",
+            "gender": "Female",
+            "phone": "+1-926-641-9889",
+            "description" : "description",
+            "newPatient" : "false",
+            "lastActivity": "just now",
             "imageLinks": {
               "thumbnail" : "",
               "smallThumbnail" : ""
@@ -326,14 +326,354 @@
         {
           "id" : "20",
           "patientInfo": {
-            "name" : "Martin Martines",
+            "name": "Karina Georgins",
+            "birthdate" : "09.22.1984 (35 yo.)",
+            "email": "kgeorginsa@biblegateway.com",
+            "gender": "Bigender",
+            "phone": "+353-381-981-2333",
+            "description" : "description",
+            "newPatient" : "false",
+            "lastActivity": "last week",
+            "imageLinks": {
+              "thumbnail" : "",
+              "smallThumbnail" : ""
+            }
+          }
+        },
+        {
+          "id" : "21",
+          "patientInfo": {
+            "name" : "Martin Gutierry",
             "birthdate" : "09.22.1984 (35 yo.)",
             "email" : "martin@gmail.com",
             "gender" : "male",
-            "fone" : "+1-202-555-0162",
+            "phone" : "+1-202-555-0162",
+            "description" : "description",
+            "newPatient" : "false",
+            "lastActivity": "last week",
+            "imageLinks": {
+              "thumbnail" : "",
+              "smallThumbnail" : ""
+            }
+          }
+        },
+        {
+          "id" : "22",
+          "patientInfo": {
+            "name" : "Samara Sibila Jacowski Collet",
+            "birthdate" : "09.22.1984 (35 yo.)",
+            "email" : "samaracollet@gmail.com",
+            "gender" : "female",
+            "phone": "+86-377-276-9348",
+            "description" : "description",
+            "newPatient" : "false",
+            "lastActivity": "today",
+            "imageLinks": {
+              "thumbnail" : "",
+              "smallThumbnail" : ""
+            }
+          }
+        },
+        {
+          "id" : "23",
+          "patientInfo": {
+            "name": "Kale Myderscough",
+            "birthdate": "05.12.2013 (8 yo.)",
+            "email": "kmyderscough2@hostgator.com",
+            "gender" : "male",
+            "phone": "+351-242-228-2498",
+            "description" : "description",
+            "newPatient" : "false",
+            "lastActivity": "last month",
+            "imageLinks": {
+              "thumbnail" : "",
+              "smallThumbnail" : ""
+            }
+          }
+        },
+        {
+          "id" : "24",
+          "patientInfo": {
+            "name": "Ruthann Stanyer",
+            "birthdate": "26.02.1985 (36 yo.)",
+            "email": "rstanyer3@disqus.com",
+            "gender" : "male",
+            "phone": "+86-648-502-2564",
+            "description" : "description",
+            "lastActivity": "just now",
+            "newPatient" : "true",
+            "imageLinks": {
+              "thumbnail" : "",
+              "smallThumbnail" : ""
+            }
+          }
+        },
+        {
+          "id" : "25",
+          "patientInfo": {
+            "name": "Selia Cunningham",
+            "birthdate": "06.04.1985 (36 yo.)",
+            "email": "scunningham4@adobe.com",
+            "gender": "Non-binary",
+            "phone": "+48-403-424-7524",
             "description" : "description",
             "newPatient" : "true",
+            "lastActivity": "05/11/2019",
+            "imageLinks": {
+              "thumbnail" : "",
+              "smallThumbnail" : ""
+            }
+          }
+        },
+        {
+          "id" : "26",
+          "patientInfo": {
+            "name": "Annadiana Jobb",
+            "birthdate" : "31.12.1945 (76 yo.)",
+            "email" : "martin@gmail.com",
+            "gender": "Bigender",
+            "phone": "+62-828-209-8445",
+            "description" : "description",
+            "newPatient" : "false",
+            "lastActivity": "last month",
+            "imageLinks": {
+              "thumbnail" : "",
+              "smallThumbnail" : ""
+            }
+          }
+        },
+        {
+          "id" : "27",
+          "patientInfo": {
+            "name": "Karen Player",
+            "birthdate" : "25.06.2002 (19 yo.)",
+            "email": "kplayer6@hp.com",
+            "gender" : "Female",
+            "phone": "+86-276-242-8845",
+            "description" : "description",
+            "newPatient" : "true",
+            "lastActivity": "last week",
+            "imageLinks": {
+              "thumbnail" : "",
+              "smallThumbnail" : ""
+            }
+          }
+        },
+        {
+          "id" : "28",
+          "patientInfo": {
+            "name": "Roarke Jay",
+            "birthdate" : "26.09.1969 (52 yo.)",
+            "email": "rjay7@acquirethisname.com",
+            "gender" : "male",
+            "phone": "+1-305-174-7880",
+            "description" : "description",
+            "newPatient" : "true",
+            "lastActivity": "last month",
+            "imageLinks": {
+              "thumbnail" : "",
+              "smallThumbnail" : ""
+            }
+          }
+        },
+        {
+          "id" : "29",
+          "patientInfo": {
+            "name": "Winifred Lill",
+            "birthdate" : "09.22.1984 (35 yo.)",
+            "email": "cplumer9@engadget.com",
+            "gender": "Female",
+            "phone": "+1-926-641-9889",
+            "description" : "description",
+            "newPatient" : "false",
             "lastActivity": "just now",
+            "imageLinks": {
+              "thumbnail" : "",
+              "smallThumbnail" : ""
+            }
+          }
+        },
+        {
+          "id" : "30",
+          "patientInfo": {
+            "name": "Karina Georgins",
+            "birthdate" : "09.22.1984 (35 yo.)",
+            "email": "kgeorginsa@biblegateway.com",
+            "gender": "Bigender",
+            "phone": "+353-381-981-2333",
+            "description" : "description",
+            "newPatient" : "false",
+            "lastActivity": "last week",
+            "imageLinks": {
+              "thumbnail" : "",
+              "smallThumbnail" : ""
+            }
+          }
+        },
+        {
+          "id" : "31",
+          "patientInfo": {
+            "name" : "Martin Gutierry",
+            "birthdate" : "09.22.1984 (35 yo.)",
+            "email" : "martin@gmail.com",
+            "gender" : "male",
+            "phone" : "+1-202-555-0162",
+            "description" : "description",
+            "newPatient" : "false",
+            "lastActivity": "last week",
+            "imageLinks": {
+              "thumbnail" : "",
+              "smallThumbnail" : ""
+            }
+          }
+        },
+        {
+          "id" : "32",
+          "patientInfo": {
+            "name" : "Samara Sibila Jacowski Collet",
+            "birthdate" : "09.22.1984 (35 yo.)",
+            "email" : "samaracollet@gmail.com",
+            "gender" : "female",
+            "phone": "+86-377-276-9348",
+            "description" : "description",
+            "newPatient" : "false",
+            "lastActivity": "today",
+            "imageLinks": {
+              "thumbnail" : "",
+              "smallThumbnail" : ""
+            }
+          }
+        },
+        {
+          "id" : "33",
+          "patientInfo": {
+            "name": "Kale Myderscough",
+            "birthdate": "05.12.2013 (8 yo.)",
+            "email": "kmyderscough2@hostgator.com",
+            "gender" : "male",
+            "phone": "+351-242-228-2498",
+            "description" : "description",
+            "newPatient" : "false",
+            "lastActivity": "last month",
+            "imageLinks": {
+              "thumbnail" : "",
+              "smallThumbnail" : ""
+            }
+          }
+        },
+        {
+          "id" : "34",
+          "patientInfo": {
+            "name": "Ruthann Stanyer",
+            "birthdate": "26.02.1985 (36 yo.)",
+            "email": "rstanyer3@disqus.com",
+            "gender" : "male",
+            "phone": "+86-648-502-2564",
+            "description" : "description",
+            "lastActivity": "just now",
+            "newPatient" : "true",
+            "imageLinks": {
+              "thumbnail" : "",
+              "smallThumbnail" : ""
+            }
+          }
+        },
+        {
+          "id" : "35",
+          "patientInfo": {
+            "name": "Selia Cunningham",
+            "birthdate": "06.04.1985 (36 yo.)",
+            "email": "scunningham4@adobe.com",
+            "gender": "Non-binary",
+            "phone": "+48-403-424-7524",
+            "description" : "description",
+            "newPatient" : "true",
+            "lastActivity": "05/11/2019",
+            "imageLinks": {
+              "thumbnail" : "",
+              "smallThumbnail" : ""
+            }
+          }
+        },
+        {
+          "id" : "36",
+          "patientInfo": {
+            "name": "Annadiana Jobb",
+            "birthdate" : "31.12.1945 (76 yo.)",
+            "email" : "martin@gmail.com",
+            "gender": "Bigender",
+            "phone": "+62-828-209-8445",
+            "description" : "description",
+            "newPatient" : "false",
+            "lastActivity": "last month",
+            "imageLinks": {
+              "thumbnail" : "",
+              "smallThumbnail" : ""
+            }
+          }
+        },
+        {
+          "id" : "37",
+          "patientInfo": {
+            "name": "Karen Player",
+            "birthdate" : "25.06.2002 (19 yo.)",
+            "email": "kplayer6@hp.com",
+            "gender" : "Female",
+            "phone": "+86-276-242-8845",
+            "description" : "description",
+            "newPatient" : "true",
+            "lastActivity": "last week",
+            "imageLinks": {
+              "thumbnail" : "",
+              "smallThumbnail" : ""
+            }
+          }
+        },
+        {
+          "id" : "38",
+          "patientInfo": {
+            "name": "Roarke Jay",
+            "birthdate" : "26.09.1969 (52 yo.)",
+            "email": "rjay7@acquirethisname.com",
+            "gender" : "male",
+            "phone": "+1-305-174-7880",
+            "description" : "description",
+            "newPatient" : "true",
+            "lastActivity": "last month",
+            "imageLinks": {
+              "thumbnail" : "",
+              "smallThumbnail" : ""
+            }
+          }
+        },
+        {
+          "id" : "39",
+          "patientInfo": {
+            "name": "Winifred Lill",
+            "birthdate" : "09.22.1984 (35 yo.)",
+            "email": "cplumer9@engadget.com",
+            "gender": "Female",
+            "phone": "+1-926-641-9889",
+            "description" : "description",
+            "newPatient" : "false",
+            "lastActivity": "just now",
+            "imageLinks": {
+              "thumbnail" : "",
+              "smallThumbnail" : ""
+            }
+          }
+        },
+        {
+          "id" : "40",
+          "patientInfo": {
+            "name": "Karina Georgins",
+            "birthdate" : "09.22.1984 (35 yo.)",
+            "email": "kgeorginsa@biblegateway.com",
+            "gender": "Bigender",
+            "phone": "+353-381-981-2333",
+            "description" : "description",
+            "newPatient" : "false",
+            "lastActivity": "last week",
             "imageLinks": {
               "thumbnail" : "",
               "smallThumbnail" : ""
