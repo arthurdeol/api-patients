@@ -26,7 +26,7 @@
             "gender" : "male",
             "fone" : "+1-202-555-0162",
             "description" : "description",
-            "newPatient" : "",
+            "newPatient" : "false",
             "lastActivity": "today",
             "imageLinks": {
               "thumbnail" : "",
