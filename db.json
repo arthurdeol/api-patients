@@ -719,5 +719,286 @@
                 }
             }
         }
+    ],
+    "conditions": [{
+            "id": 1,
+            "description": "ADHD"
+        },
+        {
+            "id": 2,
+            "description": "ALS (Lou Gehrig's disease)"
+        },
+        {
+            "id": 3,
+            "description": "Bipolar Disorder"
+        },
+        {
+            "id": 4,
+            "description": "Digestive Cramps"
+        },
+        {
+            "id": 5,
+            "description": "Diabetes(Tipe 1)"
+        },
+        {
+            "id": 6,
+            "description": "Diabetes(Tipe 2)"
+        },
+        {
+            "id": 7,
+            "description": "Deep vein thrombosis"
+        },
+        {
+            "id": 8,
+            "description": "Dementia"
+        },
+        {
+            "id": 9,
+            "description": "Dental abscess"
+        },
+        {
+            "id": 10,
+            "description": "Depression"
+        },
+        {
+            "id": 11,
+            "description": "Dry mounth"
+        },
+        {
+            "id": 12,
+            "description": "Dystonia"
+        },
+        {
+            "id": 13,
+            "description": "Earache"
+        },
+        {
+            "id": 14,
+            "description": "Earwax build-up"
+        },
+        {
+            "id": 15,
+            "description": "Ebola virus disease"
+        },
+        {
+            "id": 16,
+            "description": "Endometriosis"
+        },
+        {
+            "id": 17,
+            "description": "Epilepsy"
+        },
+        {
+            "id": 18,
+            "description": "Erectile dysfunction (impotence)"
+        },
+        {
+            "id": 19,
+            "description": "Ewing sarcoma"
+        },
+        {
+            "id": 20,
+            "description": "Eye cancer"
+        },
+        {
+            "id": 21,
+            "description": "Febrile seizures"
+        },
+        {
+            "id": 22,
+            "description": "Fever in children"
+        },
+        {
+            "id": 23,
+            "description": "Fibroids"
+        },
+        {
+            "id": 24,
+            "description": "Fibromyalgia"
+        },
+        {
+            "id": 25,
+            "description": "Flatulence"
+        },
+        {
+            "id": 26,
+            "description": "Gallbladder cancer"
+        },
+        {
+            "id": 27,
+            "description": "Germ cell tumours"
+        },
+        {
+            "id": 28,
+            "description": "Glandular fever"
+        },
+        {
+            "id": 29,
+            "description": "Haemorrhoids (piles)"
+        },
+        {
+            "id": 30,
+            "description": "Head and neck cancer"
+        },
+        {
+            "id": 31,
+            "description": "Hepatitis A"
+        },
+        {
+            "id": 32,
+            "description": "Hepatitis B"
+        },
+        {
+            "id": 33,
+            "description": "Idiopathic pulmonary fibrosis"
+        },
+        {
+            "id": 34,
+            "description": "Impetigo"
+        },
+        {
+            "id": 35,
+            "description": "Indigestion"
+        },
+        {
+            "id": 36,
+            "description": "Kaposi's sarcoma"
+        },
+        {
+            "id": 37,
+            "description": "Kidney infection"
+        },
+        {
+            "id": 38,
+            "description": "Labyrinthitis"
+        },
+        {
+            "id": 39,
+            "description": "Liver cancer"
+        },
+        {
+            "id": 40,
+            "description": "Loss of libido"
+        },
+        {
+            "id": 41,
+            "description": "Malaria"
+        },
+        {
+            "id": 42,
+            "description": "Multiple myeloma"
+        },
+        {
+            "id": 43,
+            "description": "Meniere's disease"
+        },
+        {
+            "id": 44,
+            "description": "Nasal and sinus cancer"
+        },
+        {
+            "id": 45,
+            "description": "Non-Hodgkin lymphoma: Children"
+        },
+        {
+            "id": 46,
+            "description": "Obesity"
+        },
+        {
+            "id": 47,
+            "description": "Osteosarcoma"
+        },
+        {
+            "id": 48,
+            "description": "Paget's disease of the nipple"
+        },
+        {
+            "id": 49,
+            "description": "Rare tumours"
+        },
+        {
+            "id": 50,
+            "description": "Sinusitis"
+        },
+        {
+            "id": 51,
+            "description": "Skin cancer (melanoma)"
+        },
+        {
+            "id": 52,
+            "description": "Soft tissue sarcomas: Teenagers and young adults"
+        },
+        {
+            "id": 53,
+            "description": "Transient ischaemic attack (TIA)"
+        },
+        {
+            "id": 54,
+            "description": "Ulcerative colitis"
+        },
+        {
+            "id": 55,
+            "description": "Urinary tract infection (UTI)"
+        },
+        {
+            "id": 56,
+            "description": "Vaginal cancer"
+        },
+        {
+            "id": 57,
+            "description": "Vaginal thrush"
+        },
+        {
+            "id": 58,
+            "description": "Varicose eczema"
+        },
+        {
+            "id": 59,
+            "description": "Varicose veins"
+        },
+        {
+            "id": 60,
+            "description": "Vitamin B12 or folate deficiency anaemia"
+        },
+        {
+            "id": 61,
+            "description": "Warts and verrucas"
+        },
+        {
+            "id": 62,
+            "description": "Whooping cough"
+        },
+        {
+            "id": 63,
+            "description": "Wilms’ tumour"
+        },
+        {
+            "id": 64,
+            "description": "Yellow fever"
+        },
+        {
+            "id": 65,
+            "description": "Pancreatic cancer"
+        },
+        {
+            "id": 66,
+            "description": "Psoriasis"
+        },
+        {
+            "id": 67,
+            "description": "Rosacea"
+        },
+        {
+            "id": 68,
+            "description": "Stillbirth"
+        },
+        {
+            "id": 69,
+            "description": "Tinnitus"
+        },
+        {
+            "id": 70,
+            "description": "Vertigo"
+        }
     ]
 }
