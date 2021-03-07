@@ -10,7 +10,7 @@
                 "description": "description",
                 "newPatient": "false",
                 "condition": 12,
-                "lastActivity": "Current week",
+                "lastActivity": 3,
                 "imageLinks": {
                     "thumbnail": "",
                     "smallThumbnail": ""
@@ -28,7 +28,7 @@
                 "description": "description",
                 "newPatient": "false",
                 "condition": 18,
-                "lastActivity": "Current week",
+                "lastActivity": 2,
                 "imageLinks": {
                     "thumbnail": "",
                     "smallThumbnail": ""
@@ -46,7 +46,7 @@
                 "description": "description",
                 "newPatient": "false",
                 "condition": 11,
-                "lastActivity": "Current day",
+                "lastActivity": 3,
                 "imageLinks": {
                     "thumbnail": "",
                     "smallThumbnail": ""
@@ -63,7 +63,7 @@
                 "phone": "+86-648-502-2564",
                 "description": "description",
                 "condition": 4,
-                "lastActivity": "Previous week",
+                "lastActivity": 2,
                 "newPatient": "true",
                 "imageLinks": {
                     "thumbnail": "",
@@ -82,7 +82,7 @@
                 "description": "description",
                 "newPatient": "true",
                 "condition": 6,
-                "lastActivity": "Current day",
+                "lastActivity": 1,
                 "imageLinks": {
                     "thumbnail": "",
                     "smallThumbnail": ""
@@ -100,7 +100,7 @@
                 "description": "description",
                 "condition": 6,
                 "newPatient": "false",
-                "lastActivity": "Current week",
+                "lastActivity": 2,
                 "imageLinks": {
                     "thumbnail": "",
                     "smallThumbnail": ""
@@ -118,7 +118,7 @@
                 "description": "description",
                 "condition": 6,
                 "newPatient": "true",
-                "lastActivity": "Previous month",
+                "lastActivity": 4,
                 "imageLinks": {
                     "thumbnail": "",
                     "smallThumbnail": ""
@@ -136,7 +136,7 @@
                 "description": "description",
                 "condition": 15,
                 "newPatient": "true",
-                "lastActivity": "Current week",
+                "lastActivity": 2,
                 "imageLinks": {
                     "thumbnail": "",
                     "smallThumbnail": ""
@@ -154,7 +154,7 @@
                 "description": "description",
                 "newPatient": "false",
                 "condition": 2,
-                "lastActivity": "Current day",
+                "lastActivity": 1,
                 "imageLinks": {
                     "thumbnail": "",
                     "smallThumbnail": ""
@@ -172,7 +172,7 @@
                 "description": "description",
                 "newPatient": "false",
                 "condition": 14,
-                "lastActivity": "Current week",
+                "lastActivity": 2,
                 "imageLinks": {
                     "thumbnail": "",
                     "smallThumbnail": ""
@@ -190,7 +190,7 @@
                 "description": "description",
                 "newPatient": "false",
                 "condition": 12,
-                "lastActivity": "Current day",
+                "lastActivity": 1,
                 "imageLinks": {
                     "thumbnail": "",
                     "smallThumbnail": ""
@@ -208,7 +208,7 @@
                 "description": "description",
                 "newPatient": "false",
                 "condition": 18,
-                "lastActivity": "Current day",
+                "lastActivity": 1,
                 "imageLinks": {
                     "thumbnail": "",
                     "smallThumbnail": ""
@@ -226,7 +226,7 @@
                 "description": "description",
                 "newPatient": "false",
                 "condition": 12,
-                "lastActivity": "Previous month",
+                "lastActivity": 4,
                 "imageLinks": {
                     "thumbnail": "",
                     "smallThumbnail": ""
@@ -242,7 +242,7 @@
                 "gender": "male",
                 "phone": "+86-648-502-2564",
                 "description": "description",
-                "lastActivity": "Previous week",
+                "lastActivity": 2,
                 "condition": 10,
                 "newPatient": "true",
                 "imageLinks": {
@@ -262,7 +262,7 @@
                 "description": "description",
                 "newPatient": "true",
                 "condition": 9,
-                "lastActivity": "Current day",
+                "lastActivity": 1,
                 "imageLinks": {
                     "thumbnail": "",
                     "smallThumbnail": ""
@@ -280,7 +280,7 @@
                 "description": "description",
                 "newPatient": "false",
                 "condition": 7,
-                "lastActivity": "Current day",
+                "lastActivity": 1,
                 "imageLinks": {
                     "thumbnail": "",
                     "smallThumbnail": ""
@@ -298,7 +298,7 @@
                 "description": "description",
                 "newPatient": "true",
                 "condition": 8,
-                "lastActivity": "Previous month",
+                "lastActivity": 4,
                 "imageLinks": {
                     "thumbnail": "",
                     "smallThumbnail": ""
@@ -316,7 +316,7 @@
                 "description": "description",
                 "newPatient": "true",
                 "condition": 8,
-                "lastActivity": "Current week",
+                "lastActivity": 2,
                 "imageLinks": {
                     "thumbnail": "",
                     "smallThumbnail": ""
@@ -334,7 +334,7 @@
                 "description": "description",
                 "newPatient": "false",
                 "condition": 7,
-                "lastActivity": "Previous week",
+                "lastActivity": 2,
                 "imageLinks": {
                     "thumbnail": "",
                     "smallThumbnail": ""
@@ -352,7 +352,7 @@
                 "description": "description",
                 "newPatient": "false",
                 "condition": 7,
-                "lastActivity": "Current week",
+                "lastActivity": 2,
                 "imageLinks": {
                     "thumbnail": "",
                     "smallThumbnail": ""
@@ -370,7 +370,7 @@
                 "description": "description",
                 "newPatient": "false",
                 "condition": 18,
-                "lastActivity": "Current day",
+                "lastActivity": 1,
                 "imageLinks": {
                     "thumbnail": "",
                     "smallThumbnail": ""
@@ -388,7 +388,7 @@
                 "description": "description",
                 "newPatient": "false",
                 "condition": 14,
-                "lastActivity": "Current week",
+                "lastActivity": 2,
                 "imageLinks": {
                     "thumbnail": "",
                     "smallThumbnail": ""
@@ -406,7 +406,7 @@
                 "description": "description",
                 "newPatient": "false",
                 "condition": 14,
-                "lastActivity": "Current day",
+                "lastActivity": 1,
                 "imageLinks": {
                     "thumbnail": "",
                     "smallThumbnail": ""
@@ -422,7 +422,7 @@
                 "gender": "male",
                 "phone": "+86-648-502-2564",
                 "description": "description",
-                "lastActivity": "Previous week",
+                "lastActivity": 2,
                 "condition": 13,
                 "newPatient": "true",
                 "imageLinks": {
@@ -442,7 +442,7 @@
                 "description": "description",
                 "newPatient": "true",
                 "condition": 13,
-                "lastActivity": "Previous week",
+                "lastActivity": 2,
                 "imageLinks": {
                     "thumbnail": "",
                     "smallThumbnail": ""
@@ -460,7 +460,7 @@
                 "description": "description",
                 "newPatient": "false",
                 "condition": 5,
-                "lastActivity": "Previous month",
+                "lastActivity": 4,
                 "imageLinks": {
                     "thumbnail": "",
                     "smallThumbnail": ""
@@ -478,7 +478,7 @@
                 "description": "description",
                 "newPatient": "true",
                 "condition": 9,
-                "lastActivity": "Previous month",
+                "lastActivity": 4,
                 "imageLinks": {
                     "thumbnail": "",
                     "smallThumbnail": ""
@@ -496,7 +496,7 @@
                 "description": "description",
                 "newPatient": "true",
                 "condition": 1,
-                "lastActivity": "Previous month",
+                "lastActivity": 4,
                 "imageLinks": {
                     "thumbnail": "",
                     "smallThumbnail": ""
@@ -514,7 +514,7 @@
                 "description": "description",
                 "newPatient": "false",
                 "condition": 12,
-                "lastActivity": "Previous month",
+                "lastActivity": 4,
                 "imageLinks": {
                     "thumbnail": "",
                     "smallThumbnail": ""
@@ -532,7 +532,7 @@
                 "description": "description",
                 "newPatient": "false",
                 "condition": 12,
-                "lastActivity": "Previous month",
+                "lastActivity": 4,
                 "imageLinks": {
                     "thumbnail": "",
                     "smallThumbnail": ""
@@ -550,7 +550,7 @@
                 "description": "description",
                 "newPatient": "false",
                 "condition": 15,
-                "lastActivity": "Previous month",
+                "lastActivity": 4,
                 "imageLinks": {
                     "thumbnail": "",
                     "smallThumbnail": ""
@@ -568,7 +568,7 @@
                 "description": "description",
                 "newPatient": "false",
                 "condition": 15,
-                "lastActivity": "Previous week",
+                "lastActivity": 2,
                 "imageLinks": {
                     "thumbnail": "",
                     "smallThumbnail": ""
@@ -586,7 +586,7 @@
                 "description": "description",
                 "newPatient": "false",
                 "condition": 14,
-                "lastActivity": "Previous month",
+                "lastActivity": 4,
                 "imageLinks": {
                     "thumbnail": "",
                     "smallThumbnail": ""
@@ -602,7 +602,7 @@
                 "gender": "male",
                 "phone": "+86-648-502-2564",
                 "description": "description",
-                "lastActivity": "Current week",
+                "lastActivity": 2,
                 "condition": 14,
                 "newPatient": "true",
                 "imageLinks": {
@@ -622,7 +622,7 @@
                 "description": "description",
                 "newPatient": "true",
                 "condition": 18,
-                "lastActivity": "Previous month",
+                "lastActivity": 4,
                 "imageLinks": {
                     "thumbnail": "",
                     "smallThumbnail": ""
@@ -640,7 +640,7 @@
                 "description": "description",
                 "newPatient": "false",
                 "condition": 13,
-                "lastActivity": "Previous week",
+                "lastActivity": 2,
                 "imageLinks": {
                     "thumbnail": "",
                     "smallThumbnail": ""
@@ -658,7 +658,7 @@
                 "description": "description",
                 "newPatient": "true",
                 "condition": 17,
-                "lastActivity": "Previous month",
+                "lastActivity": 4,
                 "imageLinks": {
                     "thumbnail": "",
                     "smallThumbnail": ""
@@ -676,7 +676,7 @@
                 "description": "description",
                 "newPatient": "true",
                 "condition": 7,
-                "lastActivity": "Previous month",
+                "lastActivity": 4,
                 "imageLinks": {
                     "thumbnail": "",
                     "smallThumbnail": ""
@@ -694,7 +694,7 @@
                 "description": "description",
                 "newPatient": "false",
                 "condition": 4,
-                "lastActivity": "Previous week",
+                "lastActivity": 2,
                 "imageLinks": {
                     "thumbnail": "",
                     "smallThumbnail": ""
@@ -712,7 +712,7 @@
                 "description": "description",
                 "newPatient": "false",
                 "condition": 12,
-                "lastActivity": "Previous week",
+                "lastActivity": 2,
                 "imageLinks": {
                     "thumbnail": "",
                     "smallThumbnail": ""
