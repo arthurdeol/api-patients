@@ -10,6 +10,7 @@
                 "description": "description",
                 "newPatient": "false",
                 "condition": 12,
+                "status": "pending",
                 "lastActivity": 3,
                 "address": "2657, Simons Hollow Road",
                 "allergies": "grass, tree pollen, dust mites, rhinitis, insect bites, ibuprofen",
@@ -19,169 +20,302 @@
                 }
             },
             "notes": [{
+                    "subjective": "Some kind of subjective",
+                    "ojective": "Some kind of objective",
+                    "assessment": "Some kind of assessment",
+                    "plan": "Some kind of plan",
                     "title": "ADHD",
                     "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
                     "date": "20/11/2019"
                 },
                 {
+                    "subjective": "Some kind of subjective",
+                    "ojective": "Some kind of objective",
+                    "assessment": "Some kind of assessment",
+                    "plan": "Some kind of plan",
                     "title": "ALS",
                     "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
                     "date": "05/11/2019"
                 },
                 {
+                    "subjective": "Some kind of subjective",
+                    "ojective": "Some kind of objective",
+                    "assessment": "Some kind of assessment",
+                    "plan": "Some kind of plan",
                     "title": "Bipolar Disorder",
                     "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
                     "date": "05/11/2019"
                 },
                 {
+                    "subjective": "Some kind of subjective",
+                    "ojective": "Some kind of objective",
+                    "assessment": "Some kind of assessment",
+                    "plan": "Some kind of plan",
                     "title": "Dementia",
                     "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
                     "date": "25/11/2019"
                 },
                 {
+                    "subjective": "Some kind of subjective",
+                    "ojective": "Some kind of objective",
+                    "assessment": "Some kind of assessment",
+                    "plan": "Some kind of plan",
                     "title": "Depression",
                     "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
                     "date": "05/01/2020"
                 },
                 {
+                    "subjective": "Some kind of subjective",
+                    "ojective": "Some kind of objective",
+                    "assessment": "Some kind of assessment",
+                    "plan": "Some kind of plan",
                     "title": "Endometriosis",
                     "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
                     "date": "25/09/2019"
                 },
                 {
+                    "subjective": "Some kind of subjective",
+                    "ojective": "Some kind of objective",
+                    "assessment": "Some kind of assessment",
+                    "plan": "Some kind of plan",
                     "title": "Glandular fever",
                     "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
                     "date": "15/11/2019"
                 },
                 {
+                    "subjective": "Some kind of subjective",
+                    "ojective": "Some kind of objective",
+                    "assessment": "Some kind of assessment",
+                    "plan": "Some kind of plan",
                     "title": "Hepatitis B",
                     "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
                     "date": "23/11/2019"
                 },
                 {
+                    "subjective": "Some kind of subjective",
+                    "ojective": "Some kind of objective",
+                    "assessment": "Some kind of assessment",
+                    "plan": "Some kind of plan",
                     "title": "Indigestion",
                     "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
                     "date": "05/03/2019"
                 },
                 {
+                    "subjective": "Some kind of subjective",
+                    "ojective": "Some kind of objective",
+                    "assessment": "Some kind of assessment",
+                    "plan": "Some kind of plan",
                     "title": "Labyrinthitis",
                     "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
                     "date": "25/11/2019"
                 }, {
+                    "subjective": "Some kind of subjective",
+                    "ojective": "Some kind of objective",
+                    "assessment": "Some kind of assessment",
+                    "plan": "Some kind of plan",
                     "title": "Obesity",
                     "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
                     "date": "25/11/2020"
                 },
                 {
+                    "subjective": "Some kind of subjective",
+                    "ojective": "Some kind of objective",
+                    "assessment": "Some kind of assessment",
+                    "plan": "Some kind of plan",
                     "title": "Sinusitis",
                     "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
                     "date": "03/11/2020"
                 },
                 {
+                    "subjective": "Some kind of subjective",
+                    "ojective": "Some kind of objective",
+                    "assessment": "Some kind of assessment",
+                    "plan": "Some kind of plan",
                     "title": "Yellow fever",
                     "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
                     "date": "15/04/2019"
                 },
                 {
+                    "subjective": "Some kind of subjective",
+                    "ojective": "Some kind of objective",
+                    "assessment": "Some kind of assessment",
+                    "plan": "Some kind of plan",
                     "title": "Psoriasis",
                     "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
                     "date": "05/04/2020"
                 },
                 {
+                    "subjective": "Some kind of subjective",
+                    "ojective": "Some kind of objective",
+                    "assessment": "Some kind of assessment",
+                    "plan": "Some kind of plan",
                     "title": "Tinnitus",
                     "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
                     "date": "15/03/2019"
                 },
                 {
+                    "subjective": "Some kind of subjective",
+                    "ojective": "Some kind of objective",
+                    "assessment": "Some kind of assessment",
+                    "plan": "Some kind of plan",
                     "title": "ADHD",
                     "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
                     "date": "05/11/2019"
                 },
                 {
+                    "subjective": "Some kind of subjective",
+                    "ojective": "Some kind of objective",
+                    "assessment": "Some kind of assessment",
+                    "plan": "Some kind of plan",
                     "title": "Vertigo",
                     "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
                     "date": "15/12/2020"
                 },
                 {
+                    "subjective": "Some kind of subjective",
+                    "ojective": "Some kind of objective",
+                    "assessment": "Some kind of assessment",
+                    "plan": "Some kind of plan",
                     "title": "ADHD",
                     "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
                     "date": "20/11/2019"
                 },
                 {
+                    "subjective": "Some kind of subjective",
+                    "ojective": "Some kind of objective",
+                    "assessment": "Some kind of assessment",
+                    "plan": "Some kind of plan",
                     "title": "ALS",
                     "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
                     "date": "05/11/2019"
                 },
                 {
+                    "subjective": "Some kind of subjective",
+                    "ojective": "Some kind of objective",
+                    "assessment": "Some kind of assessment",
+                    "plan": "Some kind of plan",
                     "title": "Bipolar Disorder",
                     "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
                     "date": "05/11/2019"
                 },
                 {
+                    "subjective": "Some kind of subjective",
+                    "ojective": "Some kind of objective",
+                    "assessment": "Some kind of assessment",
+                    "plan": "Some kind of plan",
                     "title": "Dementia",
                     "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
                     "date": "25/11/2019"
                 },
                 {
+                    "subjective": "Some kind of subjective",
+                    "ojective": "Some kind of objective",
+                    "assessment": "Some kind of assessment",
+                    "plan": "Some kind of plan",
                     "title": "Depression",
                     "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
                     "date": "05/01/2020"
                 },
                 {
+                    "subjective": "Some kind of subjective",
+                    "ojective": "Some kind of objective",
+                    "assessment": "Some kind of assessment",
+                    "plan": "Some kind of plan",
                     "title": "Endometriosis",
                     "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
                     "date": "25/09/2019"
                 },
                 {
+                    "subjective": "Some kind of subjective",
+                    "ojective": "Some kind of objective",
+                    "assessment": "Some kind of assessment",
+                    "plan": "Some kind of plan",
                     "title": "Glandular fever",
                     "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
                     "date": "15/11/2019"
                 },
                 {
+                    "subjective": "Some kind of subjective",
+                    "ojective": "Some kind of objective",
+                    "assessment": "Some kind of assessment",
+                    "plan": "Some kind of plan",
                     "title": "Hepatitis B",
                     "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
                     "date": "23/11/2019"
                 },
                 {
+                    "subjective": "Some kind of subjective",
+                    "ojective": "Some kind of objective",
+                    "assessment": "Some kind of assessment",
+                    "plan": "Some kind of plan",
                     "title": "Indigestion",
                     "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
                     "date": "05/03/2019"
                 },
                 {
+                    "subjective": "Some kind of subjective",
+                    "ojective": "Some kind of objective",
+                    "assessment": "Some kind of assessment",
+                    "plan": "Some kind of plan",
                     "title": "Labyrinthitis",
                     "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
                     "date": "25/11/2019"
                 }, {
+                    "subjective": "Some kind of subjective",
+                    "ojective": "Some kind of objective",
+                    "assessment": "Some kind of assessment",
+                    "plan": "Some kind of plan",
                     "title": "Obesity",
                     "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
                     "date": "25/11/2020"
                 },
                 {
+                    "subjective": "Some kind of subjective",
+                    "ojective": "Some kind of objective",
+                    "assessment": "Some kind of assessment",
+                    "plan": "Some kind of plan",
                     "title": "Sinusitis",
                     "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
                     "date": "03/11/2020"
                 },
                 {
+                    "subjective": "Some kind of subjective",
+                    "ojective": "Some kind of objective",
+                    "assessment": "Some kind of assessment",
+                    "plan": "Some kind of plan",
                     "title": "Yellow fever",
                     "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
                     "date": "15/04/2019"
                 },
                 {
+                    "subjective": "Some kind of subjective",
+                    "ojective": "Some kind of objective",
+                    "assessment": "Some kind of assessment",
+                    "plan": "Some kind of plan",
                     "title": "Psoriasis",
                     "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
                     "date": "05/04/2020"
                 },
                 {
+                    "subjective": "Some kind of subjective",
+                    "ojective": "Some kind of objective",
+                    "assessment": "Some kind of assessment",
+                    "plan": "Some kind of plan",
                     "title": "Tinnitus",
                     "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
                     "date": "15/03/2019"
                 },
                 {
+                    "subjective": "Some kind of subjective",
+                    "ojective": "Some kind of objective",
+                    "assessment": "Some kind of assessment",
+                    "plan": "Some kind of plan",
                     "title": "ADHD",
                     "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
                     "date": "05/11/2019"
                 },
                 {
+                    
                     "title": "Vertigo",
                     "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
                     "date": "15/12/2020"
@@ -351,6 +485,7 @@
                 "newPatient": "false",
                 "condition": 18,
                 "lastActivity": 2,
+                "status": "pending",
                 "address": "2657, Simons Hollow Road",
                 "allergies": "grass, tree pollen, dust mites, rhinitis, insect bites, ibuprofen",
                 "imageLinks": {
@@ -358,7 +493,8 @@
                     "smallThumbnail": ""
                 }
             },
-            "notes": [{
+            "notes": [
+                {
                     "title": "ADHD",
                     "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
                     "date": "20/11/2019"
@@ -690,6 +826,7 @@
                 "description": "description",
                 "newPatient": "false",
                 "condition": 11,
+                "status": "pending",
                 "lastActivity": 3,
                 "address": "2657, Simons Hollow Road",
                 "allergies": "grass, tree pollen, dust mites, rhinitis, insect bites, ibuprofen",
@@ -1034,6 +1171,7 @@
                 "condition": 4,
                 "lastActivity": 2,
                 "newPatient": "true",
+                "status": "active",
                 "address": "2657, Simons Hollow Road",
                 "allergies": "grass, tree pollen, dust mites, rhinitis, insect bites, ibuprofen",
                 "imageLinks": {
@@ -1374,6 +1512,7 @@
                 "newPatient": "true",
                 "condition": 6,
                 "lastActivity": 1,
+                "status": "active",
                 "address": "2657, Simons Hollow Road",
                 "allergies": "grass, tree pollen, dust mites, rhinitis, insect bites, ibuprofen",
                 "imageLinks": {
@@ -1713,6 +1852,7 @@
                 "description": "description",
                 "condition": 6,
                 "newPatient": "false",
+                "status": "active",
                 "lastActivity": 2,
                 "address": "2657, Simons Hollow Road",
                 "allergies": "grass, tree pollen, dust mites, rhinitis, insect bites, ibuprofen",
@@ -2053,6 +2193,7 @@
                 "description": "description",
                 "condition": 6,
                 "newPatient": "true",
+                "status": "active",
                 "lastActivity": 4,
                 "address": "2657, Simons Hollow Road",
                 "allergies": "grass, tree pollen, dust mites, rhinitis, insect bites, ibuprofen",
@@ -2393,6 +2534,7 @@
                 "description": "description",
                 "condition": 15,
                 "newPatient": "true",
+                "status": "active",
                 "lastActivity": 2,
                 "address": "2657, Simons Hollow Road",
                 "allergies": "grass, tree pollen, dust mites, rhinitis, insect bites, ibuprofen",
@@ -2733,6 +2875,7 @@
                 "description": "description",
                 "newPatient": "false",
                 "condition": 2,
+                "status": "active",
                 "lastActivity": 1,
                 "address": "2657, Simons Hollow Road",
                 "allergies": "grass, tree pollen, dust mites, rhinitis, insect bites, ibuprofen",
@@ -3073,6 +3216,7 @@
                 "description": "description",
                 "newPatient": "false",
                 "condition": 14,
+                "status": "active",
                 "lastActivity": 2,
                 "address": "2657, Simons Hollow Road",
                 "allergies": "grass, tree pollen, dust mites, rhinitis, insect bites, ibuprofen",
@@ -3413,6 +3557,7 @@
                 "description": "description",
                 "newPatient": "false",
                 "condition": 12,
+                "status": "active",
                 "lastActivity": 3,
                 "address": "2657, Simons Hollow Road",
                 "allergies": "grass, tree pollen, dust mites, rhinitis, insect bites, ibuprofen",
@@ -3753,6 +3898,7 @@
                 "description": "description",
                 "newPatient": "false",
                 "condition": 18,
+                "status": "active",
                 "lastActivity": 2,
                 "address": "2657, Simons Hollow Road",
                 "allergies": "grass, tree pollen, dust mites, rhinitis, insect bites, ibuprofen",
@@ -4093,6 +4239,7 @@
                 "description": "description",
                 "newPatient": "false",
                 "condition": 11,
+                "status": "active",
                 "lastActivity": 3,
                 "address": "2657, Simons Hollow Road",
                 "allergies": "grass, tree pollen, dust mites, rhinitis, insect bites, ibuprofen",
@@ -4434,6 +4581,7 @@
                 "condition": 4,
                 "lastActivity": 2,
                 "newPatient": "true",
+                "status": "active",
                 "address": "2657, Simons Hollow Road",
                 "allergies": "grass, tree pollen, dust mites, rhinitis, insect bites, ibuprofen",
                 "imageLinks": {
@@ -4773,6 +4921,7 @@
                 "description": "description",
                 "newPatient": "true",
                 "condition": 6,
+                "status": "active",
                 "lastActivity": 1,
                 "address": "2657, Simons Hollow Road",
                 "allergies": "grass, tree pollen, dust mites, rhinitis, insect bites, ibuprofen",
@@ -5114,6 +5263,7 @@
                 "condition": 6,
                 "newPatient": "false",
                 "lastActivity": 2,
+                "status": "active",
                 "address": "2657, Simons Hollow Road",
                 "allergies": "grass, tree pollen, dust mites, rhinitis, insect bites, ibuprofen",
                 "imageLinks": {
@@ -5453,6 +5603,7 @@
                 "description": "description",
                 "condition": 6,
                 "newPatient": "true",
+                "status": "active",
                 "lastActivity": 4,
                 "address": "2657, Simons Hollow Road",
                 "allergies": "grass, tree pollen, dust mites, rhinitis, insect bites, ibuprofen",
@@ -5793,6 +5944,7 @@
                 "description": "description",
                 "condition": 15,
                 "newPatient": "true",
+                "status": "active",
                 "lastActivity": 2,
                 "address": "2657, Simons Hollow Road",
                 "allergies": "grass, tree pollen, dust mites, rhinitis, insect bites, ibuprofen",
@@ -6133,6 +6285,7 @@
                 "description": "description",
                 "newPatient": "false",
                 "condition": 2,
+                "status": "active",
                 "lastActivity": 1,
                 "address": "2657, Simons Hollow Road",
                 "allergies": "grass, tree pollen, dust mites, rhinitis, insect bites, ibuprofen",
@@ -6474,6 +6627,7 @@
                 "newPatient": "false",
                 "condition": 14,
                 "lastActivity": 2,
+                "status": "active",
                 "address": "2657, Simons Hollow Road",
                 "allergies": "grass, tree pollen, dust mites, rhinitis, insect bites, ibuprofen",
                 "imageLinks": {
@@ -6814,6 +6968,7 @@
                 "newPatient": "false",
                 "condition": 12,
                 "lastActivity": 3,
+                "status": "active",
                 "address": "2657, Simons Hollow Road",
                 "allergies": "grass, tree pollen, dust mites, rhinitis, insect bites, ibuprofen",
                 "imageLinks": {
@@ -7154,6 +7309,7 @@
                 "newPatient": "false",
                 "condition": 18,
                 "lastActivity": 2,
+                "status": "active",
                 "address": "2657, Simons Hollow Road",
                 "allergies": "grass, tree pollen, dust mites, rhinitis, insect bites, ibuprofen",
                 "imageLinks": {
@@ -7494,6 +7650,7 @@
                 "newPatient": "false",
                 "condition": 11,
                 "lastActivity": 3,
+                "status": "active",
                 "address": "2657, Simons Hollow Road",
                 "allergies": "grass, tree pollen, dust mites, rhinitis, insect bites, ibuprofen",
                 "imageLinks": {
@@ -7834,6 +7991,7 @@
                 "condition": 4,
                 "lastActivity": 2,
                 "newPatient": "true",
+                "status": "active",
                 "address": "2657, Simons Hollow Road",
                 "allergies": "grass, tree pollen, dust mites, rhinitis, insect bites, ibuprofen",
                 "imageLinks": {
@@ -8174,6 +8332,7 @@
                 "newPatient": "true",
                 "condition": 6,
                 "lastActivity": 1,
+                "status": "active",
                 "address": "2657, Simons Hollow Road",
                 "allergies": "grass, tree pollen, dust mites, rhinitis, insect bites, ibuprofen",
                 "imageLinks": {
@@ -8513,6 +8672,7 @@
                 "description": "description",
                 "condition": 6,
                 "newPatient": "false",
+                "status": "active",
                 "lastActivity": 2,
                 "address": "2657, Simons Hollow Road",
                 "allergies": "grass, tree pollen, dust mites, rhinitis, insect bites, ibuprofen",
@@ -8854,6 +9014,7 @@
                 "condition": 6,
                 "newPatient": "true",
                 "lastActivity": 4,
+                "status": "active",
                 "address": "2657, Simons Hollow Road",
                 "allergies": "grass, tree pollen, dust mites, rhinitis, insect bites, ibuprofen",
                 "imageLinks": {
@@ -9194,6 +9355,7 @@
                 "condition": 15,
                 "newPatient": "true",
                 "lastActivity": 2,
+                "status": "active",
                 "address": "2657, Simons Hollow Road",
                 "allergies": "grass, tree pollen, dust mites, rhinitis, insect bites, ibuprofen",
                 "imageLinks": {
@@ -9534,6 +9696,7 @@
                 "newPatient": "false",
                 "condition": 2,
                 "lastActivity": 1,
+                "status": "active",
                 "address": "2657, Simons Hollow Road",
                 "allergies": "grass, tree pollen, dust mites, rhinitis, insect bites, ibuprofen",
                 "imageLinks": {
@@ -9874,6 +10037,7 @@
                 "newPatient": "false",
                 "condition": 14,
                 "lastActivity": 2,
+                "status": "active",
                 "address": "2657, Simons Hollow Road",
                 "allergies": "grass, tree pollen, dust mites, rhinitis, insect bites, ibuprofen",
                 "imageLinks": {
@@ -10214,6 +10378,7 @@
                 "newPatient": "false",
                 "condition": 12,
                 "lastActivity": 3,
+                "status": "active",
                 "address": "2657, Simons Hollow Road",
                 "allergies": "grass, tree pollen, dust mites, rhinitis, insect bites, ibuprofen",
                 "imageLinks": {
@@ -10554,6 +10719,7 @@
                 "newPatient": "false",
                 "condition": 18,
                 "lastActivity": 2,
+                "status": "active",
                 "address": "2657, Simons Hollow Road",
                 "allergies": "grass, tree pollen, dust mites, rhinitis, insect bites, ibuprofen",
                 "imageLinks": {
@@ -10894,6 +11060,7 @@
                 "newPatient": "false",
                 "condition": 11,
                 "lastActivity": 3,
+                "status": "active",
                 "address": "2657, Simons Hollow Road",
                 "allergies": "grass, tree pollen, dust mites, rhinitis, insect bites, ibuprofen",
                 "imageLinks": {
@@ -11234,6 +11401,7 @@
                 "condition": 4,
                 "lastActivity": 2,
                 "newPatient": "true",
+                "status": "active",
                 "address": "2657, Simons Hollow Road",
                 "allergies": "grass, tree pollen, dust mites, rhinitis, insect bites, ibuprofen",
                 "imageLinks": {
@@ -11574,6 +11742,7 @@
                 "newPatient": "true",
                 "condition": 6,
                 "lastActivity": 1,
+                "status": "active",
                 "address": "2657, Simons Hollow Road",
                 "allergies": "grass, tree pollen, dust mites, rhinitis, insect bites, ibuprofen",
                 "imageLinks": {
@@ -11914,6 +12083,7 @@
                 "condition": 6,
                 "newPatient": "false",
                 "lastActivity": 2,
+                "status": "active",
                 "address": "2657, Simons Hollow Road",
                 "allergies": "grass, tree pollen, dust mites, rhinitis, insect bites, ibuprofen",
                 "imageLinks": {
@@ -12254,6 +12424,7 @@
                 "condition": 6,
                 "newPatient": "true",
                 "lastActivity": 4,
+                "status": "active",
                 "address": "2657, Simons Hollow Road",
                 "allergies": "grass, tree pollen, dust mites, rhinitis, insect bites, ibuprofen",
                 "imageLinks": {
@@ -12594,6 +12765,7 @@
                 "condition": 15,
                 "newPatient": "true",
                 "lastActivity": 2,
+                "status": "active",
                 "address": "2657, Simons Hollow Road",
                 "allergies": "grass, tree pollen, dust mites, rhinitis, insect bites, ibuprofen",
                 "imageLinks": {
@@ -12934,6 +13106,7 @@
                 "newPatient": "false",
                 "condition": 2,
                 "lastActivity": 1,
+                "status": "active",
                 "address": "2657, Simons Hollow Road",
                 "allergies": "grass, tree pollen, dust mites, rhinitis, insect bites, ibuprofen",
                 "imageLinks": {
@@ -13274,6 +13447,7 @@
                 "newPatient": "false",
                 "condition": 14,
                 "lastActivity": 2,
+                "status": "active",
                 "address": "2657, Simons Hollow Road",
                 "allergies": "grass, tree pollen, dust mites, rhinitis, insect bites, ibuprofen",
                 "imageLinks": {
